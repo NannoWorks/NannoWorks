@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://slendytubbies.fandom.com/wiki/File:Nonoanim.gif" alt="Nono GIF" />
+<img align="right" height="150" src="https://static.wikia.nocookie.net/custard/images/4/47/Nonoanim.gif/revision/latest?cb=20251204123249" alt="Nono GIF" />
 
 <div align="left">
   <h3>💻 Linguagens</h3>
