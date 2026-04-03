@@ -2,7 +2,6 @@
 
 <div align="left">
   <h3>💻 Eh-oh!</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="15" />
 </div>
 
