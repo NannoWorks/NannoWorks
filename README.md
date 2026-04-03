@@ -3,6 +3,8 @@
 <div align="left">
   <h3>💻 Eh-oh!</h3>
   <img width="15" />
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 </div>
 
 <br clear="both">
